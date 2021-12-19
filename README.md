@@ -1,1 +1,2 @@
-# WalletLN6
+# WalletLN
+Version Metamask to Lightning Network
